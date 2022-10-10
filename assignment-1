@@ -108,7 +108,6 @@ mysql> select *from Customers;
 +------+----------+---------+------+
 7 rows in set (0.00 sec)
 
-mysql> ^C
 mysql> create table Orders(
     -> Onum int,
     -> primary key(Onum),
